@@ -1,0 +1,9 @@
+Dependent libraries utilised in my Jupyter notebook:
+
+import pandas as pd
+import re, math
+import numpy as np
+from collections import Counter
+import matplotlib.pyplot as plt
+from matplotlib import style  
+import seaborn as sns

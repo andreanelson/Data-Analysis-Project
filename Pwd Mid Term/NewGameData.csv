@@ -1,0 +1,154 @@
+Title1,Title2,Similarity Score,Rank,Game Genre,Year,NA Sales,EU Sales,JP Sales,Other Sales,Global Sales,ESRB rating
+Tetris Effect,Tetris,0.7071067811865475,6,Puzzle,1989.0,23.2,2.26,4.22,0.58,30.26,E
+Grand Theft Auto V,Grand Theft Auto V,1.0,17,Action,2013.0,7.01,9.27,0.97,4.14,21.4,M
+Grand Theft Auto V,Grand Theft Auto: San Andreas,0.6708203932499369,18,Action,2004.0,9.43,0.4,0.41,10.57,20.81,M
+Grand Theft Auto V,Grand Theft Auto: Vice City,0.6708203932499369,25,Action,2002.0,8.41,5.49,0.47,1.78,16.15,M
+Call of Duty®: Modern Warfare®,Call of Duty: Modern Warfare 3,0.9128709291752769,30,Shooter,2011.0,9.03,4.28,0.13,1.32,14.76,M
+Call of Duty®: Black Ops Cold War,Call of Duty: Black Ops,0.8451542547285165,32,Shooter,2010.0,9.67,3.73,0.11,1.13,14.64,M
+Call of Duty®: Black Ops Cold War,Call of Duty: Black Ops 3,0.7715167498104595,34,Shooter,2015.0,5.77,5.81,0.35,2.31,14.24,M
+Call of Duty®: Black Ops Cold War,Call of Duty: Black Ops II,0.7715167498104595,35,Shooter,2012.0,4.99,5.88,0.65,2.52,14.03,M
+Call of Duty®: Modern Warfare®,Call of Duty: Modern Warfare 2,0.9128709291752769,37,Shooter,2009.0,8.52,3.63,0.08,1.29,13.51,M
+Grand Theft Auto V,Grand Theft Auto III,0.75,39,Action,2001.0,6.99,4.51,0.3,1.3,13.1,M
+Grand Theft Auto V,Grand Theft Auto IV,0.75,52,Action,2008.0,6.76,3.1,0.14,1.03,11.02,M
+Call of Duty®: Modern Warfare®,Call of Duty: Ghosts,0.6708203932499369,62,Shooter,2013.0,6.72,2.63,0.04,0.82,10.21,M
+FINAL FANTASY VII Remake,Final Fantasy VII,0.8660254037844387,67,Role-Playing,1997.0,3.01,2.47,3.28,0.96,9.72,T
+Call of Duty®: Modern Warfare®,Call of Duty 4: Modern Warfare,0.9128709291752769,71,Shooter,2007.0,5.91,2.38,0.13,0.9,9.32,M
+Minecraft,Minecraft,1.0,73,Misc,2013.0,5.58,2.83,0.02,0.77,9.2,ET
+The Elder Scrolls V: Skyrim VR,The Elder Scrolls V: Skyrim,0.9128709291752769,76,Role-Playing,2011.0,5.03,2.86,0.1,0.85,8.84,M
+Star Wars™ Battlefront™ II,Star Wars Battlefront (2015),0.75,93,Shooter,2015.0,2.93,3.29,0.22,1.23,7.67,T
+Call of Duty: Warzone,Call of Duty: Advanced Warfare,0.6708203932499369,94,Shooter,2014.0,2.8,3.3,0.14,1.37,7.6,M
+Just Dance 2018,Just Dance,0.8164965809277259,103,Misc,2009.0,3.51,3.03,0.0,0.73,7.27,ET
+Need for Speed HEAT,Need for Speed Underground,0.75,105,Racing,2003.0,3.27,2.83,0.08,1.02,7.2,T
+Need for Speed™ Payback,Need for Speed Underground 2,0.6708203932499369,114,Racing,2004.0,2.71,3.02,0.08,1.09,6.9,T
+Red Dead Redemption 2,Red Dead Redemption,0.8660254037844387,124,Action,2010.0,2.79,2.61,0.17,1.03,6.6,M
+Brigandine: The Legend of Runersia,The Legend of Zelda,0.6708203932499369,128,Action,1986.0,3.74,0.93,1.69,0.14,6.51,T
+Assassin's Creed III Remastered ,Assassin's Creed III,0.8944271909999159,129,Action,2012.0,2.64,2.56,0.16,1.14,6.5,M
+Kingdom Hearts 3,Kingdom Hearts,0.8164965809277259,132,Role-Playing,2002.0,3.64,1.2,1.49,0.07,6.4,ET
+Truck Driver,Driver,0.7071067811865475,139,Action,1999.0,3.11,2.8,0.02,0.33,6.27,E
+The Last of Us Part II,The Last of Us,0.8164965809277261,147,Action,2013.0,2.41,2.28,0.28,1.01,5.99,M
+Resident Evil 2,Resident Evil 2,1.0000000000000002,152,Action,1998.0,1.88,1.47,2.02,0.45,5.82,M
+Cooking Mama: Cookstar,Cooking Mama,0.8164965809277259,154,Simulation,2006.0,3.13,1.94,0.07,0.58,5.72,E
+Destiny,Destiny,1.0,155,Shooter,2014.0,2.49,2.05,0.16,0.96,5.65,T
+Assassin's Creed Rogue Remastered,Assassin's Creed II,0.6708203932499369,157,Action,2009.0,2.54,1.95,0.21,0.87,5.57,M
+Assassin's Creed Odyssey ,Assassin's Creed,0.8660254037844387,159,Adventure,2007.0,3.28,1.65,0.07,0.55,5.55,M
+FINAL FANTASY IX,Final Fantasy IX,1.0000000000000002,174,Role-Playing,2000.0,1.62,0.77,2.78,0.14,5.3,T
+Resident Evil 3,Resident Evil,0.8164965809277259,202,Action,1996.0,2.05,1.16,1.11,0.73,5.05,M
+Tony Hawk's Pro Skater 1 and 2,Tony Hawk's Pro Skater,0.7905694150420948,203,Sports,1999.0,3.42,1.38,0.02,0.2,5.02,T
+God of War,God of War III,0.8660254037844387,217,Action,2010.0,2.74,1.36,0.12,0.63,4.84,M
+Crash™ Team Racing Nitro-Fueled,Crash Team Racing,0.7745966692414834,221,Racing,1999.0,2.57,1.57,0.44,0.21,4.79,ET
+Tony Hawk's Pro Skater 1 and 2,Tony Hawk's Pro Skater 2,0.8660254037844387,226,Sports,2000.0,3.05,1.41,0.02,0.2,4.68,T
+The Lord of the Rings Living Card Game,The Lord of the Rings: The Two Towers,0.760638829255665,228,Action,2002.0,1.94,1.95,0.08,0.7,4.67,ET
+God of War,God of War,1.0000000000000002,246,Action,2005.0,2.71,1.29,0.02,0.43,4.45,M
+Tony Hawk's Pro Skater 1 and 2,Tony Hawk's Pro Skater 3,0.7216878364870323,249,Sports,2001.0,2.66,1.29,0.01,0.46,4.41,T
+Need for Speed™ Payback,Need for Speed: Most Wanted,0.6708203932499369,253,Racing,2005.0,2.03,1.79,0.08,0.47,4.37,T
+Assassin's Creed III Remastered ,Assassin's Creed: Revelations,0.6708203932499369,264,Action,2011.0,1.41,2.02,0.1,0.72,4.24,M
+Watch Dogs Complete Edition,Watch Dogs,0.7071067811865475,281,Action,2014.0,1.4,1.86,0.11,0.77,4.14,M
+Carnival Games,Carnival Games,0.9999999999999998,287,Misc,2007.0,2.13,1.5,0.05,0.42,4.1,ET
+God of War,God of War II,0.8660254037844387,291,Action,2007.0,2.32,0.04,0.04,1.67,4.07,M
+Assassin's Creed Origins ,Assassin's Creed: Unity,0.75,305,Action,2014.0,1.18,1.96,0.08,0.7,3.92,M
+Resident Evil 3,Resident Evil 3: Nemesis,0.8660254037844387,333,Action,1999.0,1.3,0.77,1.54,0.11,3.72,M
+Tony Hawk's Pro Skater 1 and 2,Tony Hawk's Pro Skater 4,0.7216878364870323,340,Sports,2002.0,2.13,1.18,0.01,0.35,3.67,T
+Jak & Daxter The Precursor Legacy,Jak and Daxter: The Precursor Legacy,0.9128709291752769,346,Platform,2001.0,2.08,1.09,0.15,0.33,3.64,ET
+Pro Evolution Soccer 2019,Pro Evolution Soccer 2008,0.75,349,Sports,2007.0,0.05,0.0,0.64,2.93,3.63,E
+Tom Clancy's The Division 2 ,Tom Clancy's The Division,0.9128709291752769,352,Shooter,2016.0,1.28,1.61,0.15,0.57,3.61,M
+Star Wars™ Battlefront™ II,Star Wars: Battlefront,0.8660254037844387,353,Shooter,2004.0,1.93,1.22,0.03,0.44,3.61,T
+Star Wars™ Battlefront™ II,Star Wars: Battlefront II,1.0,358,Shooter,2005.0,2.18,1.02,0.03,0.37,3.59,T
+Legend of the Tetrarchs,Croc: Legend of the Gobbos,0.6708203932499369,360,Platform,1997.0,1.57,1.79,0.0,0.2,3.56,ET
+Assassin's Creed III Remastered ,Assassin's Creed: Brotherhood,0.6708203932499369,374,Action,2010.0,2.84,0.39,0.03,0.24,3.5,M
+Far Cry 3 Classic Edition,Far Cry 3,0.7745966692414834,383,Shooter,2012.0,0.88,1.75,0.1,0.72,3.45,M
+Borderlands 3,Borderlands,0.7071067811865475,385,Shooter,2009.0,2.39,0.73,0.03,0.29,3.44,M
+Grand Theft Auto V,Grand Theft Auto 2,0.75,389,Action,1998.0,1.13,2.07,0.0,0.22,3.42,M
+The LEGO Movie 2 Videogame,LEGO Batman: The Videogame,0.6708203932499369,395,Action,2008.0,2.03,1.03,0.0,0.32,3.38,ET
+The Ninja Saviors: Return of the Warriors,The Lord of the Rings: The Return of the King,0.7484551991837489,409,Action,2003.0,1.5,1.28,0.05,0.46,3.28,T
+Assassin's Creed Origins ,Assassin's Creed Syndicate,0.75,410,Action,2015.0,0.8,1.92,0.06,0.5,3.28,M
+L.A. Noire,L.A. Noire,1.0000000000000002,418,Adventure,2011.0,1.27,1.33,0.12,0.51,3.23,M
+FINAL FANTASY VII Remake,Crisis Core: Final Fantasy VII,0.6708203932499369,425,Role-Playing,2007.0,1.35,0.6,0.8,0.44,3.19,T
+God of War,God of War: Chains of Olympus,0.8164965809277259,426,Action,2008.0,1.48,1.01,0.04,0.66,3.19,M
+Marvel's Spider-Man,Spider-Man,0.7071067811865475,442,Action,2000.0,1.7,1.25,0.02,0.16,3.13,T
+Need for Speed Hot Pursuit Remastered,Need for Speed III: Hot Pursuit,0.8333333333333335,443,Racing,1998.0,2.14,0.86,0.0,0.13,3.12,ET
+STAR WARS™ Episode I Racer,Star Wars Episode I Racer,0.9999999999999998,444,Racing,1999.0,2.31,0.62,0.14,0.04,3.12,E
+DRAGON BALL Z: KAKAROT,Dragon Ball Z: Budokai,0.75,451,Fighting,2002.0,2.17,0.28,0.55,0.08,3.09,T
+Borderlands 2 VR,Borderlands 2,0.8164965809277259,454,Shooter,2012.0,1.89,0.91,0.04,0.24,3.07,M
+Devil May Cry 5,Devil May Cry,0.8660254037844387,476,Action,2001.0,1.36,0.86,0.64,0.13,2.99,M
+The Sims™ 4 Seasons,The Sims 4,0.8660254037844387,479,Simulation,2014.0,0.96,1.72,0.0,0.29,2.97,T
+HITMAN 2,Hitman 2: Silent Assassin,0.7071067811865475,483,Action,2002.0,1.36,1.15,0.04,0.41,2.96,M
+Call of Duty®: WWII,Call of Duty: Finest Hour,0.6708203932499369,501,Shooter,2004.0,1.51,1.12,0.01,0.24,2.89,M
+Mortal Kombat 11,Mortal Kombat,0.8164965809277259,509,Fighting,2011.0,1.98,0.55,0.0,0.32,2.85,M
+Need for Speed HEAT,Need for Speed: Hot Pursuit,0.6708203932499369,523,Racing,2010.0,1.05,1.25,0.03,0.48,2.81,T
+Jak II,Jak II,0.9999999999999998,538,Platform,2003.0,1.68,0.74,0.0,0.36,2.78,T
+The Sims™ 4 Parenthood,The Sims,0.7071067811865475,542,Simulation,2003.0,1.41,1.12,0.0,0.24,2.77,T
+Saints Row: The Third Remastered,Saints Row: The Third,0.8944271909999159,544,Action,2011.0,1.25,1.15,0.07,0.3,2.77,M
+Call of Duty®: Modern Warfare®,Call of Duty 3,0.6708203932499369,551,Shooter,2006.0,1.49,0.93,0.02,0.27,2.71,M
+Onimusha: Warlords,Onimusha: Warlords,0.9999999999999998,553,Action,2001.0,0.99,0.48,1.09,0.14,2.7,M
+Need for Speed HEAT,Need for Speed: Shift,0.75,563,Racing,2009.0,0.69,1.41,0.04,0.53,2.68,T
+God of War,God of War Collection,0.8660254037844387,580,Action,2009.0,1.7,0.46,0.06,0.41,2.63,M
+Streets of Rage 4,Streets of Rage,0.8660254037844387,589,Action,1990.0,1.86,0.55,0.11,0.08,2.6,T
+Ghostbusters: The Video Game Remastered,Ghostbusters: The Video Game (DS Version),0.7302967433402214,595,Action,2009.0,1.04,1.24,0.03,0.27,2.58,T
+Space Invaders Forever,Space Invaders,0.8164965809277259,608,Shooter,,2.36,0.14,0.0,0.03,2.53,E
+Pro Evolution Soccer 2019,PES 2009: Pro Evolution Soccer,0.6708203932499369,615,Sports,2008.0,0.13,0.07,0.26,2.05,2.5,E
+Grand Theft Auto V,Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City,0.6882472016116852,618,Action,2003.0,1.84,0.56,0.0,0.09,2.49,M
+Pro Evolution Soccer 2019,pro evolution soccer 2011,0.75,640,Sports,2010.0,0.29,1.18,0.54,0.41,2.42,E
+DRAGON BALL Z: KAKAROT,Dragon Ball Z: Budokai 2,0.6708203932499369,641,Fighting,2003.0,1.63,0.22,0.51,0.06,2.41,T
+Need for Speed™ Payback,Need for Speed: ProStreet,0.75,645,Racing,2007.0,0.69,0.0,0.04,1.68,2.41,T
+Fire Pro Wrestling World,Pro Wrestling,0.7071067811865475,648,Fighting,1987.0,0.77,0.18,1.42,0.03,2.4,T
+Need for Speed HEAT,Need for Speed (2015),0.75,651,Racing,2015.0,0.49,1.49,0.05,0.36,2.39,T
+LEGO The Incredibles,The Incredibles,0.8164965809277259,668,Action,2004.0,0.96,1.08,0.04,0.3,2.37,ET
+Grand Theft Auto V,Grand Theft Auto,0.8660254037844387,686,Action,1997.0,0.79,1.35,0.04,0.14,2.32,M
+Need for Speed™ Payback,Need For Speed: High Stakes,0.6708203932499369,689,Racing,1999.0,1.58,0.64,0.0,0.09,2.31,T
+LEGO Marvel Super Heroes 2,LEGO Marvel Super Heroes,0.8944271909999159,692,Action,2013.0,1.24,0.85,0.0,0.21,2.3,ET
+God of War,God of War: Ascension,0.8660254037844387,697,Action,2013.0,1.23,0.68,0.04,0.34,2.29,M
+Pro Evolution Soccer 2019,Pro Evolution Soccer 2010,0.75,699,Sports,2009.0,0.3,1.27,0.46,0.26,2.28,E
+Super Monkey Ball: Banana Blitz HD,Super Monkey Ball: Banana Blitz,0.9128709291752769,709,Misc,2006.0,1.07,0.92,0.04,0.24,2.27,ET
+DISSIDIA FINAL FANTASY NT Standard Edition,Dissidia: Final Fantasy,0.7071067811865476,721,Fighting,2008.0,0.51,0.51,0.91,0.32,2.25,T
+Prince of Persia: The Sands of Time Remake,Prince of Persia: The Sands of Time,0.9486832980505138,728,Action,2003.0,0.88,1.03,0.0,0.31,2.22,T
+Scribblenauts Showdown,Scribblenauts,0.7071067811865475,729,Puzzle,2009.0,1.71,0.32,0.02,0.18,2.22,ET
+Pro Evolution Soccer 2019,Pro Evolution Soccer 2012,0.75,742,Action,2011.0,0.34,0.97,0.55,0.33,2.19,E
+Tom Clancy's Rainbow Six Siege: Advanced Edition,Tom Clancy's Rainbow Six: Siege,0.8660254037844387,760,Shooter,2015.0,0.54,1.16,0.13,0.32,2.15,M
+Spike Volleyball,Volleyball,0.7071067811865475,761,Sports,1987.0,0.14,0.03,1.98,0.0,2.15,E
+Mahjong Carnival,Mahjong,0.7071067811865475,765,Misc,1983.0,0.01,0.0,2.13,0.0,2.14,E
+Need for Speed Hot Pursuit Remastered,Need for Speed: Hot Pursuit 2,0.8333333333333335,782,Racing,2002.0,1.68,0.31,0.02,0.09,2.11,ET
+Need for Speed HEAT,Need For Speed: Undercover,0.75,803,Racing,2008.0,0.63,1.02,0.05,0.39,2.08,T
+ DARK SOULS™: REMASTERED,Dark Souls,0.8164965809277259,813,Role-Playing,2011.0,0.75,0.54,0.54,0.23,2.07,M
+Need for Speed™ Payback,Need for Speed: The Run,0.6708203932499369,837,Action,2011.0,0.58,1.06,0.03,0.37,2.04,T
+Call of Duty®: Modern Warfare 2 Campaign Remastered,Call of Duty 2,0.7071067811865475,843,Shooter,2005.0,1.81,0.05,0.01,0.15,2.02,M
+Devil May Cry 5,Devil May Cry 2,0.75,864,Action,2003.0,0.71,0.58,0.51,0.17,1.97,M
+Burnout Paradise Remastered,Burnout Paradise,0.8164965809277259,865,Racing,2008.0,1.01,0.64,0.02,0.3,1.97,ET
+RAD,Rad Racer,0.7071067811865475,869,Racing,1986.0,1.13,0.37,0.41,0.05,1.96,T
+Tom Clancy's Rainbow Six Siege: Advanced Edition,Tom Clancy's Rainbow Six: Vegas,0.7216878364870323,872,Shooter,2006.0,1.09,0.65,0.02,0.2,1.96,M
+Who Wants to Be a Millionaire?,Who wants to be a millionaire,1.0000000000000002,880,Misc,1999.0,1.94,0.0,0.0,0.0,1.94,E
+DRAGON BALL Z: KAKAROT,Dragon Ball Z: Budokai 3,0.6708203932499369,883,Fighting,2004.0,1.09,0.15,0.65,0.04,1.94,T
+Tom Clancy's Ghost Recon Breakpoint,Tom Clancy's Ghost Recon,0.9128709291752769,885,Shooter,2002.0,1.42,0.4,0.0,0.12,1.94,M
+Red Faction,Red Faction,0.9999999999999998,899,Shooter,2001.0,0.76,0.96,0.0,0.2,1.92,M
+Destiny: The Taken King,Destiny: The Taken King,1.0,907,Shooter,2015.0,0.77,0.78,0.04,0.31,1.91,T
+Need for Speed™ Payback,Need for Speed Rivals,0.75,911,Racing,2013.0,0.73,0.91,0.03,0.22,1.89,T
+Legend of the Tetrarchs,The Legend of Dragoon,0.75,928,Role-Playing,1999.0,0.94,0.44,0.39,0.1,1.86,ET
+Singstar Celebration,SingStar,0.7071067811865475,930,Misc,2004.0,0.0,1.37,0.0,0.49,1.86,T
+Jak 3,Jak 3,0.9999999999999998,937,Platform,2004.0,1.33,0.49,0.0,0.03,1.85,T
+Pinball FX3,Pinball,0.7071067811865475,940,Action,1984.0,0.8,0.19,0.83,0.03,1.85,ET
+Secret of Mana,Secret of Mana,1.0000000000000002,950,Role-Playing,1993.0,0.25,0.07,1.49,0.02,1.83,ET
+The Evil Within 2,The Evil Within,0.8660254037844387,959,Action,2014.0,0.55,0.84,0.11,0.31,1.81,M
+DEAD OR ALIVE 6,Dead or Alive 3,0.75,987,Fighting,2001.0,1.19,0.29,0.24,0.06,1.77,M
+Pro Evolution Soccer 2019,Pro Evolution Soccer,0.8660254037844387,1008,Sports,2001.0,0.06,0.9,0.53,0.27,1.75,E
+STAR WARS™ Episode I Racer,Star Wars Episode I: The Phantom Menace,0.6761234037828131,1016,Adventure,1999.0,0.72,0.89,0.04,0.1,1.74,E
+The Elder Scrolls Online: Elsweyr,The Elder Scrolls Online,0.8944271909999159,1036,Role-Playing,2015.0,0.66,0.78,0.0,0.28,1.72,M
+The Crew 2,The Crew,0.8164965809277259,1051,Racing,2014.0,0.34,1.08,0.03,0.26,1.7,T
+Puyo Puyo Tetris 2,Super Puyo Puyo,0.7302967433402214,1056,Puzzle,1993.0,0.0,0.0,1.69,0.01,1.7,ET
+Sid Meier's Civilization VI,Sid Meier's Civilization V,0.7999999999999998,1071,Strategy,2010.0,0.98,0.52,0.0,0.19,1.69,ET
+Call of Duty®: Black Ops Cold War,Call of Duty Black Ops: Declassified,0.7715167498104595,1073,Action,2012.0,0.8,0.52,0.07,0.3,1.69,M
+Star Wars™ Battlefront™ II,Star Wars Battlefront: Renegade Squadron,0.6708203932499369,1074,Shooter,2007.0,0.9,0.47,0.0,0.32,1.68,T
+LEGO Marvel Super Heroes 2,LEGO Batman 2: DC Super Heroes,0.7302967433402214,1077,Action,2012.0,0.9,0.64,0.0,0.15,1.68,ET
+SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,SpongeBob SquarePants: Battle for Bikini Bottom,0.9258200997725514,1098,Platform,2003.0,1.08,0.45,0.0,0.14,1.67,ET
+Street Fighter V: Champion Edition,Street Fighter II': Special Champion Edition,0.7302967433402214,1101,Fighting,1992.0,1.0,0.3,0.31,0.04,1.66,T
+Need for Speed™ Payback,Need for Speed Carbon,0.75,1105,Racing,2006.0,0.76,0.7,0.02,0.18,1.66,T
+DRAGON BALL Z: KAKAROT,Dragon Ball Z: Budokai Tenkaichi,0.6708203932499369,1107,Fighting,2005.0,0.96,0.12,0.54,0.04,1.66,T
+Tom Clancy's Rainbow Six Siege: Advanced Edition,Tom Clancy's Rainbow Six,0.7905694150420948,1118,Shooter,1999.0,0.93,0.63,0.0,0.08,1.64,M
+RAGE 2,Rage,0.7071067811865475,1137,Shooter,2011.0,0.82,0.61,0.03,0.15,1.62,M
+No Man's Sky: Beyond,No Man's Sky,0.8944271909999159,1158,Action,2016.0,0.58,0.74,0.02,0.26,1.6,T
+Devil May Cry 5,Devil May Cry 4,0.75,1164,Action,2008.0,0.58,0.46,0.34,0.21,1.59,M
+Wolfenstein II: The New Colossus,Wolfenstein: The New Order,0.6708203932499369,1170,Shooter,2014.0,0.47,0.8,0.03,0.29,1.58,M
+Carnival Games,Carnival Games: Mini Golf,0.7071067811865475,1171,Sports,2008.0,0.87,0.56,0.0,0.15,1.58,ET
+Pro Evolution Soccer 2019,Pro Evolution Soccer 2013,0.75,1186,Sports,2012.0,0.18,0.64,0.49,0.25,1.56,E
+Dragon Quest Builders 2,Dragon Quest Monsters 2,0.75,1193,Role-Playing,2001.0,0.0,0.0,1.56,0.0,1.56,ET
+Mafia II: Definitive Edition,Mafia II,0.7071067811865475,1196,Action,2010.0,0.84,0.56,0.0,0.15,1.55,M
+Tom Clancy's Rainbow Six Siege: Advanced Edition,Tom Clancy's Rainbow Six 3,0.7216878364870323,1199,Shooter,2003.0,0.91,0.57,0.0,0.07,1.55,M
+Ni No Kuni: Wrath of the White Witch Remastered,Ni no Kuni: Wrath of the White Witch,0.9428090415820632,1206,Role-Playing,2011.0,0.6,0.51,0.21,0.23,1.55,ET
